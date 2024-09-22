@@ -1,0 +1,35 @@
+ Dexter
+#### The app is Dexter, 17/09/2024
+#### **By Victor Kichwen**
+## Description
+The application includes a  landing page showing what i do, my skills background and their links on instagram  and my contact information.
+
+## Setup/Installation Instruction
+* Download a zip in the code button to the desired folder
+* Extract the files
+* Open the extracted folder with VSCode
+* Go live or open the index.html file with chrome
+* And you are all done
+
+## Live server
+* You can view the web live on [Dexter](https://v-kichwen.instagram.io/dexter-sdft11/)
+
+## Known Bugs
+The application works perfectly well, no bugs.
+
+## Technologies Used
+HTML, CSS , Fontawesome icons, GIT
+
+## Support and contact details
+email :: kelvinkipchumba002@gmail.com
+
+### License
+Copyright 2024 Victor kichwen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Copyright (c) 2024 **Victor kichwen**
