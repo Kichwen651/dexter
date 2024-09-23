@@ -21,7 +21,7 @@ The application works perfectly well, no bugs.
 HTML, CSS , Fontawesome icons, GIT
 
 ## Support and contact details
-email :: kelvinkipchumba002@gmail.com
+email :: vkipchirchir@gmail.com
 
 ### License
 Copyright 2024 Victor kichwen
